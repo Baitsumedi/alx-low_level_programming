@@ -10,8 +10,8 @@ int main(void)
 
     a = 98;
     b = 42;
-    puts("a=%d, b=%d\n", a, b);
+    putchar("a=%d, b=%d\n", a, b);
     swap_int(&a, &b);
-    puts("a=%d, b=%d\n", a, b);
+    putchar("a=%d, b=%d\n", a, b);
     return (0);
 }
