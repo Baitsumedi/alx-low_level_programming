@@ -1,3 +1,5 @@
+#include "main.h"
+#include <stdio>
 /**
  * main - check the code
  *
@@ -9,7 +11,7 @@ char *str;
 int len;
 
 str = "My first strlen!";
-len = _strlen(str);
-printf("%d\n", len);
+for(len = 0; [len] != '\0'; ++len);
+_putchar("%d\n", len);
 return (0);
 }
