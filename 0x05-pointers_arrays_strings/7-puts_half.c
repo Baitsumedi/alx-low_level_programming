@@ -2,6 +2,7 @@
 /**
  * puts_half - afunction that prints half of a string(secondhalf of a string)
  * it must be followed by a new line
+ * @:str -  string that must be printed
  */
 void puts_half(char *str)
 {
