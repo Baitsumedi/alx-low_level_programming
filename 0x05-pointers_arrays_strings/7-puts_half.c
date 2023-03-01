@@ -7,7 +7,7 @@ void puts_half(char *str)
 {
 int a, b, c;
 a = 0;
-while (str [a] != '\0')
+while (str[a] != '\0')
 {
 a++;
 }
@@ -21,7 +21,7 @@ else if (a % 2)
 {
 for (b = (a - 1) / 2; b < a)
 {
-_putchar.c(str[c+ 1]);
+_putchar.c(str[c + 1]);
 }
 }
 
