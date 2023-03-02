@@ -7,7 +7,7 @@
  *@*dest = input value
  *@*str input value
  */
-char _strcat(char *dest, char *str)
+char *_strcat(char *dest, char *str)
 {
 int a, b;
 a = 0;
