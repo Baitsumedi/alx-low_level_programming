@@ -10,3 +10,9 @@ TASK 1
 
 TASK2 
 strncpy - a fuction that copies a string
+
+TASK 3
+Write a function that compares two strings.
+
+TASK 4
+a function that reverses the content of an array of integers.
